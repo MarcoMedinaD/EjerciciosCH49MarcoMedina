@@ -1,0 +1,27 @@
+/* Estilo para el título principal */
+h1 {
+    font-family: Arial, sans-serif;
+    color: #2c3e50;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+/* Estilo para los subtítulos */
+h2 {
+    font-family: Georgia, serif;
+    color: #34495e;
+    font-size: 20px;
+    border-bottom: 2px solid #2980b9;
+    padding-bottom: 5px;
+    margin-top: 30px;
+}
+
+/* Estilo para los párrafos */
+p {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.8;
+    text-align: justify;
+    margin: 15px 20px;
+    color: #4d4d4d;
+}

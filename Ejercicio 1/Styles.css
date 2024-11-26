@@ -1,0 +1,26 @@
+/* Estilo para el título principal (h1) */
+h1 {
+    font-family: 'Arial', sans-serif;
+    font-size: 36px;
+    color: #2d3436;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Estilo para el segundo nivel de encabezado (h2) */
+h2 {
+    font-family: 'Verdana', sans-serif;
+    font-size: 30px;
+    color: #0984e3;
+    text-align: left;
+    margin-bottom: 18px;
+}
+
+/* Estilo para los demás encabezados (h3, h4, h5, h6) */
+h3, h4, h5, h6 {
+    font-family: 'Tahoma', sans-serif;
+    color: #636e72;
+    margin-bottom: 15px;
+}
+
+
