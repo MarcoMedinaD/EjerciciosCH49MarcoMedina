@@ -1,0 +1,10 @@
+:root{
+    --bg-color: #433878;
+    --primary-color: #7E60BF;
+    --secondary-color: #E4B1F0;
+    background-color: var(--bg-color);
+    color: var(--hg-color);
+    width: 100vw;
+    height: 500vh;
+    margin: 0;
+    }
